@@ -1,0 +1,27 @@
+{
+  "name": "process-genie",
+  "version": "1.0.0",
+  "description": "Cross-platform node process memory manipulation library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purinet/process-genie.git"
+  },
+  "keywords": [
+    "process",
+    "read",
+    "write",
+    "memory",
+    "regions",
+    "cross-platform"
+  ],
+  "author": "Purinet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Purinet/process-genie/issues"
+  },
+  "homepage": "https://github.com/Purinet/process-genie#readme"
+}
