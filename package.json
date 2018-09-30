@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Purinet/process-genie/issues"
   },
-  "homepage": "https://github.com/Purinet/process-genie#readme"
+  "homepage": "https://github.com/Purinet/process-genie#readme",
+  "dependencies": {
+    "ffi-napi": "^2.4.3"
+  }
 }
